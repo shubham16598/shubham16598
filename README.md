@@ -20,14 +20,14 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS"  alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 </p>
 
