@@ -13,7 +13,6 @@
 
 - 🧳 I'm a Full Stack Developer, Loves building software applications 
 - 🌱 Exploring Open Source Contribution and Web3.
-- 🕑 Mentor Students and provide Career Guidance in my free time.[![Book a Call](https://img.shields.io/badge/Book-Call-blueviolet)](https://calendly.com/shubham16598/30min)
 - 🏕 I love Trekking, Listening to Music and Stargazing (aren't they amazing? 🌟)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-shubham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham16598)
 
