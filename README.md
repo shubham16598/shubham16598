@@ -36,6 +36,3 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham16598&show_icons=true&locale=en&layout=compact" alt="shubham16598" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham16598&show_icons=true&locale=en" alt="shubham16598" />
-</p>
