@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/shubham16598" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@shubham16598 on LinkedIn" /> 
   </a>
-  <a href="https://twitter.com/shubham16598" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="@shubham16598 on Twitter" />
-  </a>
 </div>
 
 ### :man_technologist: &nbsp;About Me :
