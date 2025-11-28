@@ -36,7 +36,7 @@
 
 ### **Stats**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubham16598&theme=tokyonight&hide_border=true"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shubham16598&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
