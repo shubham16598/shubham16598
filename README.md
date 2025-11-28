@@ -35,9 +35,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ### **Stats**
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shubham16598&theme=dark" alt="GitHub Streak" /></a>
-</p>
 
 <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham16598&show_icons=true&locale=en&layout=compact" alt="shubham16598" />
